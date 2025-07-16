@@ -25,13 +25,23 @@ Charlotte FC’s tactical profile (high PPDA, low possession) places them in **Q
 
 ![Style of Play Chart](visuals/cltfc_style_of_play_quadrant.png)
 
+This quadrant-style graph categorizes teams by **pressing intensity** and **ball control style**:
+
+| Quadrant | Description |
+|----------|-------------|
+| 🔲 **Top Left** | *Low Possession, Low Pressing* — Teams that sit in a mid/low block and don’t chase the ball aggressively. |
+| 🔲 **Top Right** | *High Possession, Low Pressing* — Teams that dominate the ball but defend more passively (possession-focused, slower transitions). |
+| 🔲 **Bottom Left** | *Low Possession, High Pressing* — Pressing teams that don’t dominate the ball (counter-pressing or transitional style). |
+| 🔲 **Bottom Right** | *High Possession, High Pressing* — Intense, dominant teams that press high and keep the ball (typically elite). |
+
+
 ---
 
 ## 📊 Featured Visuals
-- [x] Charlotte vs. Eastern Conference – Metric Comparison  
 - [x] Style of Play Quadrant Chart (PPDA vs Possession)  
+- [x] Charlotte vs. Eastern Conference – Metric Comparison  
 - [x] Home vs Away Goal Contributions  
-- [x] Injury and availability impacts  
+- [x] Injury and availability impacts   
 
 ---
 
