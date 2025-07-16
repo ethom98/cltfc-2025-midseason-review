@@ -124,6 +124,33 @@ The chart below displays Charlotte FC’s **5-game rolling Points Per Game**, wi
 These absences align with dips in team form — particularly in away fixtures. The impact on wide build-up play and defensive structure was clear, as Charlotte conceded more goals and struggled to maintain consistent pressure or rhythm.  
 
 ---
+## 🔚 Conclusion & Future Outlook:
+Charlotte FC's 2025 mid-season profile reveals a team with defined strengths and distinct tactical identity, yet with clear improvements needed as the season progresses.
+
+🔎 Offensive efficiency remains strong — Charlotte’s xG (1.70) and goals per game (1.65) sit above the Eastern Conference average.
+
+⚙️ Their direct and intentional ball progression has been a tactical asset, even as the club defends in a mid-block.
+
+🚩 However, weaknesses in aerial duels, defensive intensity, and second-half structure, especially on the road, contributed to a noticeable drop-off away from home.
+
+---
+
+### 🧭 Roster Context & Coming Transitions:
+In addition, Charlotte FC signed Patrick Agyemang on February 4, 2023 (12th pick in the SuperDraft). His recent transfer to Derby County in England’s Championship (initial $8 million fee plus add-ons) marks the club’s most significant-ever outgoing move. 
+
+Agyemang’s departure will reduce vertical threat and pressing efficiency through transitions — his presence was key in stretching play and unlocking defenses.
+
+✔️ MLS’s secondary summer transfer window opens July 24 and closes August 21, offering a pivotal chance for Charlotte to:
+
+1. Reinforce the forward line with a striker who fits the model (pressing, vertical ball, aerial threat)
+
+2. Add physical presence to the midfield or fullback roles
+
+3. Bolster set piece resilience
+
+This transfer window will be an exciting time for supporters — if Charlotte executes smart upgrades, they can convert a strong midseason showing into a sustained playoff push and deeper postseason run.
+
+---
 
 ## 📊 Featured Visuals
 - [x] Style of Play Quadrant Chart (PPDA vs Possession)  
