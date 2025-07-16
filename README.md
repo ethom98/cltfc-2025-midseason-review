@@ -108,6 +108,23 @@ Charlotte FC’s 2025 MLS season reveals a sharp contrast in performance dependi
 
 ---
 
+## 🏥 Injury and Availability Impacts
+
+Charlotte FC’s midseason form was disrupted by the absence of key players during a critical stretch in May 2025:
+
+- 🔴 **Nathan Byrne** (RB): Missed 7+ matches due to neck surgery starting May 4. His absence destabilized the right side and disrupted the 2-3-5 build-up shape.
+- 🟠 **Souleyman Doumbia** (LB): Missed 3 matches between May 11–18. Without him, Charlotte lacked overlapping width on the left.
+- 🟣 **Kristijan Kahlina** (GK): Missed matches on May 15 and May 25 due to personal leave.
+
+The chart below displays Charlotte FC’s **5-game rolling Points Per Game**, with absences annotated:
+
+![5-Game Rolling PPG with Absences](visuals/cltfc_rolling_ppg_with_absences.png)
+
+### 🧠 Key Insight:
+These absences align with dips in team form — particularly in away fixtures. The impact on wide build-up play and defensive structure was clear, as Charlotte conceded more goals and struggled to maintain consistent pressure or rhythm.  
+
+---
+
 ## 📊 Featured Visuals
 - [x] Style of Play Quadrant Chart (PPDA vs Possession)  
 - [x] Charlotte vs. Eastern Conference – Metric Comparison  
