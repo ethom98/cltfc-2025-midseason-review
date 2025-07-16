@@ -61,6 +61,8 @@ This table compares Charlotte FC’s midseason metrics to the 2025 Eastern Confe
 | **Defensive Duels Won**| 56.29       | ~59.4    | Slightly below average — opportunity to improve defensive engagement.  |
 | **Throw-in Accuracy** | 18.12        | ~18.9    | Minor technical detail, but could affect ball retention.               |
 
+_The Eastern Conference average was computed across all available teams in the dataset (excluding Charlotte FC), and rounded to two decimal places. Metrics were selected based on tactical relevance: goal production, passing progression, defensive pressure, and physical engagement._
+
 ### ⚖️ Balanced Metrics
 
 Charlotte sits near the conference average in:
@@ -75,12 +77,21 @@ These are stable but not standout categories, representing maintenance areas rat
 
 ### 🧠 Tactical Takeaways
 
-Charlotte FC is a team that **thrives on structured progression**, effective buildup, and patient attacking phases. While they generate and convert chances well, they:
-- Avoid high pressing
-- Struggle physically in the air
-- Could benefit significantly from set piece improvements and deeper defensive engagement
+Perfect — here’s a revised, accurate, and tactically-aware version of the **Tactical Takeaways** section based on your clarification:
 
-These observations reinforce Charlotte’s placement in the **“low possession, low pressing”** quadrant — a team that plays in a compact block, breaks forward efficiently, but must tighten up off the ball.
+---
+
+### 🧠 Tactical Takeaways
+
+Charlotte FC plays with a **defend-first mindset**, favoring **direct and intentional ball movement** once possession is gained. Their approach is not about suffocating pressure or controlling the tempo — it’s about absorbing, then attacking.
+
+Key themes:
+
+* They **invite opponents forward**, allowing controlled entry into their defensive third — a calculated trade-off to stay compact and set up transitions.
+* Their **progressive passing metrics are elite**, showing the team excels at moving the ball vertically once recovered.
+* However, they **lack defensive intensity in midfield** and **struggle in aerial duels**, creating vulnerability on set pieces and second balls.
+
+This tactical identity places Charlotte FC firmly in the **“low possession, low pressing” quadrant**: organized, tough to break down at times, but not proactive without the ball.
 
 ---
 
