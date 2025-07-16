@@ -34,6 +34,53 @@ This quadrant-style graph categorizes teams by **pressing intensity** and **ball
 | 🔲 **Bottom Left** | *Low Possession, High Pressing* — Pressing teams that don’t dominate the ball (counter-pressing or transitional style). |
 | 🔲 **Bottom Right** | *High Possession, High Pressing* — Intense, dominant teams that press high and keep the ball (typically elite). |
 
+---
+
+## 📈 Charlotte FC – Strengths & Weaknesses (vs. Eastern Conference Avg)
+
+This table compares Charlotte FC’s midseason metrics to the 2025 Eastern Conference average:
+
+### 🟢 Strengths
+
+| Metric                        | Charlotte FC | East Avg | Insight                                                                 |
+|------------------------------|--------------|----------|-------------------------------------------------------------------------|
+| **xG**                       | 1.70         | ~1.55    | Top-third chance creation — Charlotte consistently gets quality looks. |
+| **Goals**                    | 1.65         | ~1.57    | Finishing aligns with expected output — efficient attacking execution. |
+| **Progressive Pass Accuracy**| 73.6%        | ~69.2%   | Among the best in the East — shows precision in moving the ball forward. |
+| **Smart Passes / Accurate**  | 1.47         | ~1.45    | Strong use of through balls and line-breaking passes.                  |
+| **Average Pass Length**      | 19.89        | ~18.3    | Slightly longer passing style — favors direct buildup over short exchanges. |
+| **Match Tempo**              | 17.13        | ~17.0    | Keeps a steady pace, reflective of a structured and intentional style. |
+
+### 🔴 Weaknesses
+
+| Metric                | Charlotte FC | East Avg | Concern                                                                 |
+|-----------------------|--------------|----------|-------------------------------------------------------------------------|
+| **Aerial Duels Won**  | 22.18        | ~27.8    | Among the lowest in the East — vulnerable on crosses and set pieces.   |
+| **PPDA**              | 17.17        | ~13.6    | Applies less defensive pressure — indicates passive, mid-block defending. |
+| **Conceded Goals**    | 1.59         | ~1.52    | Slightly elevated — potentially tied to limited pressing and aerial issues. |
+| **Defensive Duels Won**| 56.29       | ~59.4    | Slightly below average — opportunity to improve defensive engagement.  |
+| **Throw-in Accuracy** | 18.12        | ~18.9    | Minor technical detail, but could affect ball retention.               |
+
+### ⚖️ Balanced Metrics
+
+Charlotte sits near the conference average in:
+
+- **Passes to Final Third / Accurate**: 54.94 (East Avg ~54.5)
+- **Set Piece Shots**: 23.41 (East Avg ~24)
+- **Counterattacks w/ Shots**: 0.94 (East Avg ~0.9)
+
+These are stable but not standout categories, representing maintenance areas rather than focus areas for tactical adjustments.
+
+---
+
+### 🧠 Tactical Takeaways
+
+Charlotte FC is a team that **thrives on structured progression**, effective buildup, and patient attacking phases. While they generate and convert chances well, they:
+- Avoid high pressing
+- Struggle physically in the air
+- Could benefit significantly from set piece improvements and deeper defensive engagement
+
+These observations reinforce Charlotte’s placement in the **“low possession, low pressing”** quadrant — a team that plays in a compact block, breaks forward efficiently, but must tighten up off the ball.
 
 ---
 
