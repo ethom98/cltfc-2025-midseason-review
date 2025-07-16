@@ -77,12 +77,6 @@ These are stable but not standout categories, representing maintenance areas rat
 
 ### 🧠 Tactical Takeaways
 
-Perfect — here’s a revised, accurate, and tactically-aware version of the **Tactical Takeaways** section based on your clarification:
-
----
-
-### 🧠 Tactical Takeaways
-
 Charlotte FC plays with a **defend-first mindset**, favoring **direct and intentional ball movement** once possession is gained. Their approach is not about suffocating pressure or controlling the tempo — it’s about absorbing, then attacking.
 
 Key themes:
@@ -92,6 +86,25 @@ Key themes:
 * However, they **lack defensive intensity in midfield** and **struggle in aerial duels**, creating vulnerability on set pieces and second balls.
 
 This tactical identity places Charlotte FC firmly in the **“low possession, low pressing” quadrant**: organized, tough to break down at times, but not proactive without the ball.
+
+---
+
+## 🏟️ Home vs Away Goal Contributions
+
+Charlotte FC’s 2025 MLS season reveals a sharp contrast in performance depending on the venue:
+
+| Venue | Goals Scored | Goals Conceded |
+|-------|--------------|----------------|
+| 🏠 **Home** | **17**          | **9**              |
+| 🛫 **Away** | **11**          | **18**             |
+
+![Home vs Away Goals](visuals/cltfc_home_away_goals_clean.png)
+
+### 🧠 Key Insights:
+- Charlotte scores **over 50% more goals at home**, and concedes **twice as few** compared to away matches.
+- This suggests stronger defensive organization and more assertive attacking play in home fixtures.
+- **Away matches show consistent second-half struggles**, contributing to a -7 goal differential on the road.
+- Reinforces the pattern: **playoff-level team at home, vulnerable side away** — with tactical adjustments needed in road fixtures.
 
 ---
 
