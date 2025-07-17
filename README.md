@@ -1,7 +1,7 @@
 
 # Charlotte FC 2025 Mid-Season Review
 
-This project presents a mid-season tactical and statistical analysis of Charlotte FC during the 2025 MLS campaign. Built as part of the UNC Charlotte Sports Analytics Practicum, the goal was to extract insights from match data and present findings to Fc's Data Analytics Team.
+This project presents a mid-season tactical and statistical analysis of Charlotte FC during the 2025 MLS campaign. Built as part of the UNC Charlotte Sports Analytics Practicum, the goal was to extract insights from match data and present findings to FC's Data Analytics Team.
 
 ## 📈 Key Metrics Analyzed
 - xG & goal production
