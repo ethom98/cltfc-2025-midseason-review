@@ -160,5 +160,13 @@ This transfer window will be an exciting time for supporters — if Charlotte ex
 
 ---
 
+## Data Source
+
+The data used in this project was sourced from WyScout and provided by the Charlotte FC Analytics Team as part of a collaborative analysis initiative. This data is proprietary and not publicly available.
+
+Note: Due to data licensing agreements, the raw WyScout data used in this analysis cannot be publicly shared.
+
+---
+
 ## 🙌 Acknowledgments
 Special thanks to the Charlotte FC analytics team and the UNC Charlotte Sports Analytics Practicum for the opportunity and support throughout this project.
